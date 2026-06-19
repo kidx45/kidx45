@@ -77,14 +77,3 @@ Built secure decentralized apps with **Rust** on the Stellar blockchain. Covered
 B.Eng. Software Engineering · Nov 2023 – Present
 
 **CGPA: 3.78**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kidus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidx45&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kidx45&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
