@@ -3,7 +3,7 @@
 # Kidus Tessema
 **Aspiring Software Engineer · Backend Developer · Problem Solver**
 
-📍 Addis Ababa, Ethiopia &nbsp;|&nbsp; 🎓 AASTU Software Engineering · CGPA 3.78
+📍 Addis Ababa, Ethiopia &nbsp;|&nbsp; 🎓 AASTU Software Engineering · CGPA 3.81
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://et.linkedin.com/in/kidus-tessema-manyahle-2592a0395)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kidx45)
@@ -19,7 +19,7 @@ I'm a software engineering student at **Addis Ababa Science and Technology Unive
 
 - 🔧 Building APIs with **Golang (Gin)** and **Node.js (Express)**
 - 🐳 Containerizing apps with **Docker** and automating tests with **GitHub Actions**
-- 🧩 Practicing DSA daily with **C++** on LeetCode
+- 🧩 Practicing DSA daily with **C++** and **Python** on CodeForces
 - 🌐 Exploring **Rust**, **smart contracts**, and the decentralized web
 - 🚀 Always looking to learn something new and ship something useful
 
@@ -29,12 +29,12 @@ I'm a software engineering student at **Addis Ababa Science and Technology Unive
 
 **Languages**
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 **Backend & Frameworks**
 
