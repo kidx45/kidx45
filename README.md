@@ -76,4 +76,4 @@ Built secure decentralized apps with **Rust** on the Stellar blockchain. Covered
 
 B.Eng. Software Engineering · Nov 2023 – Present
 
-**CGPA: 3.78**
+**CGPA: 3.81**
